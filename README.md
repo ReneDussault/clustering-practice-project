@@ -7,6 +7,7 @@ The project performs the following steps:
 Collects data on various music genres using the Spotify API.  
 Extracts audio features of songs within each genre, including energy, instrumentalness, and speechiness.  
 Uses K-Means clustering algorithm to group songs into clusters based on their audio features.  
+Explores the data.  
 Visualizes the clusters in a 3D scatter plot to observe patterns and relationships between genres. (see below)  
 Provides song recommendations based on user input activity (study, gym, or anything).  
 
