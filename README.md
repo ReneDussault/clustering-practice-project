@@ -30,7 +30,7 @@ Please note that this project requires valid Spotify API credentials to access t
 Make sure to obtain and include your credentials in the secret.json file before running the code.
 
 ##### This README.md file is intended to provide a high-level overview of the project to non-technical individuals, such as recruiters.  
-For more detailed information and code documentation, please refer to the code files and comments within them. 
+##### For more detailed information and code documentation, please refer to the code files and comments within them. 
 
 here's a 3dplot showing the clustering
 ![alt text](https://github.com/ReneDussault/clustering-practice-project/blob/main/3dplot.png)
